@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abu
-- 👀 I’m interested in talking about AI and Robotics
+- 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Data Science & Artificial Intelligence
 - 📫 How to reach me : mamajonov1710@gmail.com
 
