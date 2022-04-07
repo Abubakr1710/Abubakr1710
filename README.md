@@ -38,7 +38,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
  <a href="https://www.kaggle.com/abubakrmamajonov" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="abubakr1710"  /></a>
 <br />
 <br />
-<h3>## Find me</h3>
+<h3>Find me</h3>
 <p><a href="https://github.com/Abubakr1710" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abubakrmamajonov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="mailto:mamajonov1710@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
