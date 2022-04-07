@@ -8,5 +8,3 @@ Abubakr1710/Abubakr1710 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![coding](https://user-images.githubusercontent.com/62804902/162134242-396b4dc8-aaea-4fb5-bcf6-91c6d3acaa8b.gif)
-
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
