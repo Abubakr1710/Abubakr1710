@@ -1,4 +1,4 @@
-  <img src="https://img.shields.io/github/followers/Abubakr1710?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
+  <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
  
 </p>
