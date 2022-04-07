@@ -1,25 +1,13 @@
-  <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
- 
-</p>
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+Hi, I'm **Abu** 👋
 
-<img align="left" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
+I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
-<p>Welcome to my page! </br> I am Abu , Data Science and AI Developer from <b>Kokand, Uzbekistan. currently living in  <b> Poland</b>.</p>
+- 🎓 **Education:** I am a studying Bachelor of Computer engineering at Vistula University in Warsaw. 
 
 
-
-I love to explore and learn about new things.</p>
-
-<p><em>Studying BCE Computer Engineering at <a href="http://www.unb.br"> 
- Vistula University in Warsaw</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>💻 Learning <a href="https://www.thoughtworks.com">Data Science and AI engineering</a /a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> 
-
-<br />
-<br />
-<br />
+- 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 6 cities
 
 ### Activities:
 
@@ -55,9 +43,3 @@ I love to explore and learn about new things.</p>
   <a href="mailto:mamajonov1710@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
-
-   
-  
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-### Thanks for Coming ❤️
