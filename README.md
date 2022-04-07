@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Abu
-- 👀 I’m interested in Artificial Intelligence and Robotics
-- 🌱 I’m currently learning Data Science & Artificial Intelligence
-- 📫 How to reach me : mamajonov1710@gmail.com
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+## I'm Abu
+## Data Science and AI Developer 👨‍💻
+
+[![](https://img.shields.io/badge/https://www.linkedin.com/in/abubakrmamajonov/)(https://www.linkedin.com/in/abubakrmamajonov/)
+[![](https://img.shields.io/badge/Gmail-mamajonov1710@gmail.com-red)](mailto:mamajonov1710@gmail.com)
+
+
 
 <!---
 Abubakr1710/Abubakr1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
