@@ -3,7 +3,7 @@
 ## I'm Abu
 ## Data Science and AI Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-abubakrmamajonov-blue)(https://www.linkedin.com/in/abubakrmamajonov)
+[![](https://img.shields.io/badge/LinkedIn-abubakrmamajonov-blue)](https://www.linkedin.com/in/abubakrmamajonov)
 [![](https://img.shields.io/badge/Gmail-mamajonov1710@gmail.com-red)](mailto:mamajonov1710@gmail.com)
 
 
