@@ -11,7 +11,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 
 - 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 6 cities
 ### Activities:
-<img src="https://github-readme-stats.vercel.app/api?username=AbdMamun94&show_icons=true&theme=great-gatsby" alt="AbdMamun94" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdMamun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Abubakr1710&show_icons=true&theme=great-gatsby" alt="Abubakr1710" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr1710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :computer: Programming languages and tools: 
 
