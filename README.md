@@ -1,6 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-## I'm Abu
+## Hi, I'm Abu
 ## Data Science and AI Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Abubakr-blue)](https://www.linkedin.com/in/abubakrmamajonov)
@@ -12,4 +10,4 @@
 Abubakr1710/Abubakr1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align='right (https://user-images.githubusercontent.com/62804902/162134242-396b4dc8-aaea-4fb5-bcf6-91c6d3acaa8b.gif)>
+<img align='right' scr=https://user-images.githubusercontent.com/62804902/162134242-396b4dc8-aaea-4fb5-bcf6-91c6d3acaa8b.gif>
