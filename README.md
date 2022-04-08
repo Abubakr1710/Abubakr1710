@@ -6,7 +6,7 @@ Hi, I'm **Abu** 👋
 
 I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
-- 🎓 **Education:** I am a studying Bachelor of Computer engineering at Vistula University in Warsaw. 
+- 🎓 **Education:** I am a studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
 
 
 - 😅 **Fun fact:** I like to travel around the world. I visited 5 countries and 20 cities
