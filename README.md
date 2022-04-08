@@ -9,7 +9,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 - 🎓 **Education:** I am a studying Bachelor of Computer engineering at Vistula University in Warsaw. 
 
 
-- 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 6 cities
+- 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 20 cities
 ### Activities:
 <img src="https://github-readme-stats.vercel.app/api?username=Abubakr1710&show_icons=true&theme=great-gatsby" alt="Abubakr1710" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr1710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
