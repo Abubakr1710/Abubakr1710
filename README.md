@@ -26,7 +26,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Learning Platform
+## Learning Platforms
 
 ![Epicode](https://img.shields.io/badge/Epicode-%23150458?style=for-the-badge&logo=Epicode&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
