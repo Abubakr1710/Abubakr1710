@@ -28,6 +28,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 
 ## Learning Platform
 
+![Epicode](https://img.shields.io/badge/Epicode-%23150458?style=for-the-badge&logo=Epicode&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
