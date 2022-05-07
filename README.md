@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
-Hi, I'm **Abu** 👋
+Hey, I'm **Abu** 👋
 
 I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
@@ -15,7 +15,8 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 <img align="left" width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level&theme=react"/>
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr1710&layout=compact&cardType=level&theme=react"/>
 
-## :computer: Programming languages and tools: 
+
+### :computer: Programming languages and tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
