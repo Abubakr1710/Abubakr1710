@@ -2,7 +2,7 @@
 
   <img align="left" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true" width="300" height="200" />
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&Background=070124&Text=4F91DD&Ring=4F91DD">    <img  alt="Abubakr1710's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level-alternate&theme=github-dark&Background=070124&Text=4F91DD&Ring=4F91DD" />  </a> 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Abubakr1710's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level-alternate&theme=github-dark" />  </a>
 
 Hi, I'm Abu 👋
 
