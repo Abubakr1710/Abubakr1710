@@ -1,7 +1,10 @@
   <img src="https://img.shields.io/github/followers/Abubakr1710?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
 
-  <img align="center" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true" width="800" height="400" />
-Hi, I'm **Abu** 👋
+  <img align="left" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true" width="400" height="200" />
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&Background=070124&Text=4F91DD&Ring=4F91DD">    <img  alt="Abubakr1710's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level-alternate&theme=github-dark&Background=070124&Text=4F91DD&Ring=4F91DD" />  </a> 
+
+Hi, I'm Abu 👋
 
 I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
@@ -9,8 +12,6 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 
 
 - 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 6 cities
-
----
 
 <div>
    <p align="center">
