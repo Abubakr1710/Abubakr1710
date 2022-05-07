@@ -1,19 +1,5 @@
   <img src="https://img.shields.io/github/followers/Abubakr1710?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
 
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
-
-Hey, I'm **Abu** 👋
-
-I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
-
-- 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
-
-
-- 😅 **Fun fact:** I like to travel around the world. I visited 5 countries and 20 cities
-### Activities:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level-alternate&theme=github-dark&Background=000000&Border=1A59ED)](https://git.io/awesome-stats-card)
-
-
 ### :computer: Programming languages and tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
