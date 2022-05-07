@@ -1,5 +1,19 @@
   <img src="https://img.shields.io/github/followers/Abubakr1710?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
 
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+
+Hi, I'm **Abu** 👋
+
+I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
+
+- 🎓 **Education:** I am a studying Bachelor of Computer engineering at Vistula University in Warsaw. 
+
+
+- 😅 **Fun fact:** I like travel around the world. I visited 6 countries and 20 cities
+
+---
+
+
 ### :computer: Programming languages and tools: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,5 +43,3 @@
   <a href="mailto:mamajonov1710@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/abubakr.mamajonov.75/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
   <a href="https://www.instagram.com/abubakr_mamajonov" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23EE4C2C.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
-</p>
