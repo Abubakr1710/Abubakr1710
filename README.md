@@ -15,7 +15,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 
 <hr>
 
-<h2 align="center">  Languages / Tools </h2>
+<h2 align="center">  Languages and Tools </h2>
 <p align="center">
    <img src="https://img.shields.io/badge/-Python-0a2463?logo=python&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Numpy-0a2463?logo=numpy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
