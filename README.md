@@ -48,3 +48,5 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
        </a>
     </p>
  </div>
+ 
+ <a href="http://www.github.com/Abubakr1710"><img src="https://activity-graph.herokuapp.com/graph?username=Abubakr1710&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
