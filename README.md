@@ -4,7 +4,7 @@
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Abubakr1710's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level-alternate&theme=github-dark" />  </a>
 
-Hi, I'm Abu 👋
+Hey, I'm Abu 👋
 
 I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
