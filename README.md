@@ -19,7 +19,6 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
    <img src="https://img.shields.io/badge/-Python-0a2463?logo=python&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Numpy-0a2463?logo=numpy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Pandas-0a2463?logo=pandas&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Plotly-0a2463?logo=plotly&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Matplotlib-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Seaborn-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Streamlit-0a2463?logo=streamlit&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
