@@ -46,7 +46,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
          <img src="https://img.shields.io/badge/Instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
        </a>
        <a href="https://dev.to/abubakr1710" target="_blank">
-         <img src="https://img.shields.io/badge/Dev.to-%23D14836.svg?&style=for-the-badge&logo=Dev.to&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=Dev.to&logoColor=white"/>
        </a>
     </p>
  </div>
