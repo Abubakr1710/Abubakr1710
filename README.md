@@ -10,7 +10,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 - 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
 
 
-- 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 6 cities
+- 😅 **Fun fact:** I like to travel around the world. I visited 5 countries and 6 cities
 
 <hr>
 
