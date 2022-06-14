@@ -5,7 +5,7 @@ href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-
 
 Hey, I'm Abu 👋
 
-I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
+I'm a **Data Scientist and AI Developer** and very passionate about Computer Vision
 
 - 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
 
