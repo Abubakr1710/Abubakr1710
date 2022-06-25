@@ -12,7 +12,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Computer Vis
 
 - 😅 **Fun fact:** I like to travel around the world. I visited 5 countries and 6 cities.
 
-- 🙂 **Additinal:** Do not bother me with NLP😅
+- 🙂 **Additional:** Do not bother me with NLP😅
 
 <hr>
 
