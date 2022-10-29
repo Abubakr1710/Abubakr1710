@@ -30,6 +30,11 @@ I'm a **Data Scientist and AI Developer** and very passionate about Computer Vis
    <img src="https://img.shields.io/badge/-Pytorch-0a2463?logo=pytorch&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-OpenCV-0a2463?logo=OpenCV&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-spaCy-0a2463?logo=spacy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-HTML-0a2463?logo=html&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-CSS-0a2463?logo=css&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Bootstrap-0a2463?logo=bootstrap&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-PostgreSQL-0a2463?logo=postgresql&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Docker-0a2463?logo=docker&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
