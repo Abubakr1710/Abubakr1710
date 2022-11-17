@@ -1,9 +1,15 @@
-<img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?   username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
+</div>
 
-<img align="center" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true" width=700 height=500
-href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">
+<div align="center">
+   <img align="center" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true" width=1000 height=600>
+</div>
 
-Hey, I'm Abu 👋
+<hr>
+
+<h1 align="center"> Hey, I'm Abu 👋 </h1>
+
 
 I'm a **Data Scientist and AI Developer** and very passionate about Computer Vision
 
@@ -16,7 +22,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Computer Vis
 
 <hr>
 
-<h2 align="center">  Languages and Tools </h2>
+<h1 align="center">  Languages and Tools </h2>
 <p align="center">
    <img src="https://img.shields.io/badge/-Python-0a2463?logo=python&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Numpy-0a2463?logo=numpy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
@@ -39,7 +45,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Computer Vis
 
 <hr>
  <div>
-  <h2 align="center">  Reach me on </h2>
+  <h1 align="center">  Reach me on </h2>
     <p align="center">
        <a href="https://linkedin.com/in/abubakrmamajonov" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
