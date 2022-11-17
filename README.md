@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Abubakr1710&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
 
-<img align="left" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true" width="300" height="200"
-href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Abubakr1710's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abubakr1710?cardType=level-alternate&theme=github-dark"/>
+<img align="center" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/code.gif?raw=true"
+href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">
 
 Hey, I'm Abu 👋
 
