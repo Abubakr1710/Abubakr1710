@@ -11,7 +11,7 @@
 <h1 align="center"> Hey, I'm Abu 👋 </h1>
 
 
-I'm a **Data Scientist and AI Developer** and very passionate about Computer Vision
+I'm a **Data Scientist and AI Engineer** and very passionate about Computer Vision
 
 - 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
 
