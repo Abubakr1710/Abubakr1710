@@ -62,7 +62,7 @@ I'm a **Data Scientist and AI Engineer** and very passionate about Computer Visi
          <img src="https://img.shields.io/badge/Instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
        </a>
        <a href="https://abubakr1710-my-website-app-kx4y2h.streamlit.app/" target="_blank">
-         <img src="https://img.shields.io/badge/MyWeb-%230A0A0A.svg?&style=for-the-badge&logo=MyWeb&logoColor=white"/>
+         <img src="https://img.shields.io/badge/MyWeb-%230A0A0A.svg?&style=for-the-badge&logo=web&logoColor=white"/>
        </a>
     </p>
  </div>
