@@ -15,8 +15,7 @@ I'm a **Data Scientist and AI Engineer** and very passionate about Computer Visi
 
 - 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
 
-
-- 😅 **Fun fact:** I like to travel around the world. I visited 5 countries and 6 cities.
+- 😅 **Fun fact:** I like to travel around the world. I visited 6 countries and 7 cities.
 
 - 🙂 **Additional:** Do not bother me with NLP😅
 
