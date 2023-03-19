@@ -13,7 +13,7 @@ I'm a **Data Scientist and AI Engineer** and very passionate about Computer Visi
 
 - 😅 **Fun fact:** I like to travel around the world. I visited 6 countries and 7 cities.
 
-- 🙂 **Additional:** Do not bother me with NLP😅
+- 🙂 **Additional:** There are some useful sources to learn python in my repository. Check it out
 
 <hr>
 
