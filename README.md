@@ -30,6 +30,7 @@ I'm a **Data Scientist and AI Engineer** and very passionate about Computer Visi
    <img src="https://img.shields.io/badge/-Sklearn-02050f?logo=scikit-learn&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Pytorch-02050f?logo=pytorch&logoColor=d0312d&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-OpenCV-02050f?logo=OpenCV&logoColor=3cb043&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-PySpark-02050f?logo=pyspark&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-SpaCy-02050f?logo=spacy&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-HTML-02050f?logo=html5&logoColor=d0312de&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-CSS-02050f?logo=css3&logoColor=2f6ad7&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
