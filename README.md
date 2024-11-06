@@ -15,8 +15,6 @@ I'm a **Data Scientist and AI Engineer** and very passionate about Computer Visi
 
 - 🙂 **Additional:** There are some useful sources to learn python in my repositories. Check it out
 
-- https://[![committers.top badge](https://user-badge.committers.top/uzbekistan/USERNAME.svg)](https://user-badge.committers.top/uzbekistan/Abubakr1710)
-
 <hr>
 
 <h1 align="center">  Languages and Tools </h2>
